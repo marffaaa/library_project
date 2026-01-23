@@ -1,0 +1,5 @@
+module.exports = {
+    PORT: 3000,
+    MONGODB_URI: 'mongodb://localhost:27017/library_catalog_db',
+    JWT_SECRET: 'secretKey'
+};
